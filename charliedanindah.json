@@ -1,0 +1,62 @@
+{
+      "user_id": 1,
+      "invitation_slug": "charliedanindah",
+      "brides_name": "Indah Hehe",
+      "brides_nickname": "Indah",
+      "brides_position_in_family": "Pertama",
+      "brides_father_name": "Robert Doe",
+      "brides_mother_name": "Emily Doe",
+      "brides_photo": "https://example.com/images/bride-jane.jpg",
+      "brides_instagram": "https://instagram.com/jane_doe",
+      "groom_name": "Charlie Hehe",
+      "groom_nickname": "Charlie",
+      "groom_position_in_family": "Pertama",
+      "groom_father_name": "Michael Smith",
+      "groom_mother_name": "Sarah Smith",
+      "groom_photo": "https://example.com/images/groom-john.jpg",
+      "groom_instagram": "https://instagram.com/john_smith",
+      "event_date": "2024-12-25",
+      "evetn_time": "14:00:00",
+      "location_akad": "123 Wedding Venue, Cityville",
+      "google_maps_akad": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
+       "location_reception": "123 Wedding Venue, Cityville",
+      "google_maps_reception": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
+      "cover_image": "https://example.com/images/cover-john-jane.jpg",
+      "first_groom": false,
+      "theme_id": "premium-1",
+      "theme_variant": "denim",
+       "is_published": true,
+    "created_at": "2024-10-01 10:00:00",
+    "updated_at": "2024-10-01 10:00:00",
+      "gallery": [
+        "https://example.com/images/photo1.jpg",
+        "https://example.com/images/photo2.jpg",
+        "https://example.com/images/photo3.jpg"
+      ],
+      "gift_banks": [
+        {
+          "bank_name": "Bank A",
+          "account_number": "1234567890",
+          "account_holder": "John Smith"
+        },
+        {
+          "bank_name": "Bank B",
+          "account_number": "0987654321",
+          "account_holder": "Jane Doe"
+        }
+      ],
+      "love_story": [
+        {
+          "title": "First Meeting",
+          "year": 2019,
+          "date": "2019-02-14",
+          "description": "John and Jane met at a Valentine's Day event in 2019 and instantly connected."
+        },
+        {
+          "title": "The Proposal",
+          "year": 2023,
+          "date": "2023-07-01",
+          "description": "John proposed to Jane during a romantic vacation in the mountains."
+        }
+      ]
+    }
