@@ -23,7 +23,7 @@
       "google_maps_reception": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
       "cover_image": "https://example.com/images/cover-john-jane.jpg",
       "first_groom": false,
-      "theme_id": "premium1",
+      "theme_id": "premium-1",
       "theme_variant": "denim",
        "is_published": true,
     "created_at": "2024-10-01 10:00:00",
