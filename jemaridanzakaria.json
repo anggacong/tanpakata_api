@@ -40,19 +40,19 @@
             "3.jpg",
             "4.jpg",
             "5.jpg",
-            "6.jpg",
+            "6.jpg"
       ],
     "akad_images": [
             "1.jpg",
-            "6.jpg",
+            "6.jpg"
       ],
 "reception_images": [
             "3.jpg",
-            "https://tanpakata.com/img/jemari/4.jpg",
+            "https://tanpakata.com/img/jemari/4.jpg"
       ],
 "story_images": [
             "1.jpg",
-            "2.jpg",
+            "2.jpg"
       ],
       "gallery": [
             "1.jpg",
@@ -79,13 +79,11 @@
       "love_story": [
         {
           "title": "First Meeting",
-          "year": 2019,
           "date": "2019-02-14",
           "description": "John and Jane met at a Valentine's Day event in 2019 and instantly connected."
         },
         {
           "title": "The Proposal",
-          "year": 2023,
           "date": "2023-07-01",
           "description": "John proposed to Jane during a romantic vacation in the mountains."
         }
