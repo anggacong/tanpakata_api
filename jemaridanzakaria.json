@@ -30,9 +30,18 @@
       "first_groom": false,
       "theme_slug": "premium-1",
       "theme_variant": "brown",
+      "music":"perfect.mp3",
       "is_published": true,
       "created_at": "2024-10-01 10:00:00",
       "updated_at": "2024-10-01 10:00:00",
+      "swiper_images": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg",
+      ],
     "akad_images": [
             "1.jpg",
             "6.jpg",
