@@ -1,67 +1,75 @@
 {
-      "user_id": 1,
-      "invitation_slug": "anggadanlena",
-      "brides_name": "Mahdalena Putri",
-      "brides_nickname": "Putri",
-      "brides_position_in_family": "Pertama",
-      "brides_father_name": "Robert Doe",
-      "brides_mother_name": "Emily Doe",
-      "brides_photo": "https://example.com/images/bride-jane.jpg",
-      "brides_instagram": "https://instagram.com/jane_doe",
-      "groom_name": "Afrilian Ariangga",
-      "groom_nickname": "Angga",
-      "groom_position_in_family": "Pertama",
-      "groom_father_name": "Michael Smith",
-      "groom_mother_name": "Sarah Smith",
-      "groom_photo": "https://example.com/images/groom-john.jpg",
-      "groom_instagram": "https://instagram.com/john_smith",
-      "event_date": "2024-12-25",
-      "event_time": "14:00:00",
-      "location_akad": "123 Wedding Venue, Cityville",
-      "google_maps_akad": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
-       "location_reception": "123 Wedding Venue, Cityville",
-      "google_maps_reception": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
-      "cover_image": "https://example.com/images/cover-john-jane.jpg",
-      "first_groom": false,
-      "theme_id": "premium-1",
-      "theme_variant": "brown",
-       "is_published": true,
-    "created_at": "2024-10-01 10:00:00",
-    "updated_at": "2024-10-01 10:00:00",
-      "gallery": [
-        "https://tanpakata.com/img/jemari/1.jpg",
-        "https://tanpakata.com/img/jemari/2.jpg",
-        "https://tanpakata.com/img/jemari/3.jpg",
-            "https://tanpakata.com/img/jemari/4.jpg",
-            "https://tanpakata.com/img/jemari/5.jpg",
-            "https://tanpakata.com/img/jemari/6.jpg",
-            "https://tanpakata.com/img/jemari/7.jpg",
-            "https://tanpakata.com/img/jemari/8.jpg"
-      ],
-      "gift_banks": [
-        {
-          "bank_name": "Bank A",
-          "account_number": "1234567890",
-          "account_holder": "John Smith"
-        },
-        {
-          "bank_name": "Bank B",
-          "account_number": "0987654321",
-          "account_holder": "Jane Doe"
-        }
-      ],
-      "love_story": [
-        {
-          "title": "First Meeting",
-          "year": 2019,
-          "date": "2019-02-14",
-          "description": "John and Jane met at a Valentine's Day event in 2019 and instantly connected."
-        },
-        {
-          "title": "The Proposal",
-          "year": 2023,
-          "date": "2023-07-01",
-          "description": "John proposed to Jane during a romantic vacation in the mountains."
-        }
-      ]
+  "id": 10,
+  "user_id": 1,
+  "invitation_slug": "jemaridanzakaria",
+  "brides_name": "Jemari",
+  "brides_nickname": "Jemari",
+  "brides_position_in_family": "Pertama",
+  "brides_father_name": "Muhammad Amin",
+  "brides_mother_name": "Tijah",
+  "brides_photo": "7.jpg",
+  "brides_instagram": "jane_doe",
+  "groom_name": "Zakaria",
+  "groom_nickname": "Zakaria",
+  "groom_position_in_family": "Pertama",
+  "groom_father_name": "Mahmud",
+  "groom_mother_name": "Manis",
+  "groom_photo": "8.jpg",
+  "groom_instagram": "john_smith",
+  "reception_date": "2024-12-25",
+  "akad_time": "10:00:00",
+  "akad_date": "2024-12-26",
+  "reception_time": "10:00:00",
+  "residence_akad": "Wanita",
+  "location_akad": "Buntul Kota, Permata, Bener Meriah",
+  "google_maps_akad": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
+  "residence_reception": "Wanita",
+  "location_reception": "Buntul Kota, Permata, Bener Meriah",
+  "google_maps_reception": "https://maps.google.com/?q=123+Wedding+Venue,Cityville",
+  "cover_image": "1.jpg",
+  "first_groom": false,
+  "theme_slug": "premium-1",
+  "theme_variant": "brown",
+  "music": "perfect.mp3",
+  "is_published": true,
+  "created_at": "2024-10-01 10:00:00",
+  "updated_at": "2024-10-01 10:00:00",
+  "swiper_images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg"],
+  "akad_images": ["1.jpg", "6.jpg"],
+  "reception_images": ["3.jpg", "2.jpg"],
+  "story_images": ["1.jpg", "2.jpg"],
+  "gallery": [
+    "1.jpg",
+    "2.jpg",
+    "3.jpg",
+    "4.jpg",
+    "5.jpg",
+    "6.jpg",
+    "7.jpg",
+    "8.jpg"
+  ],
+  "gift_banks": [
+    {
+      "bank_name": "Bank A",
+      "account_number": "1234567890",
+      "account_holder": "John Smith"
+    },
+    {
+      "bank_name": "Bank B",
+      "account_number": "0987654321",
+      "account_holder": "Jane Doe"
     }
+  ],
+  "love_story": [
+    {
+      "title": "First Meeting",
+      "date": "2019-02-14",
+      "description": "John and Jane met at a Valentine's Day event in 2019 and instantly connected."
+    },
+    {
+      "title": "The Proposal",
+      "date": "2023-07-01",
+      "description": "John proposed to Jane during a romantic vacation in the mountains."
+    }
+  ]
+}
