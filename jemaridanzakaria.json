@@ -38,6 +38,7 @@
   "akad_images": ["1.jpg", "6.jpg"],
   "reception_images": ["3.jpg", "2.jpg"],
   "story_images": ["1.jpg", "2.jpg"],
+  "home_cover_images" : ["1.jpg","2.jpg"],
   "gallery": [
     "1.jpg",
     "2.jpg",
