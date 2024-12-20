@@ -29,7 +29,7 @@
   "cover_image": "1.jpg",
   "first_groom": false,
   "theme_slug": "default",
-  "theme_variant": "brown",
+  "theme_variant": "default",
   "music": "perfect.mp3",
   "is_published": true,
   "created_at": "2024-10-01 10:00:00",
